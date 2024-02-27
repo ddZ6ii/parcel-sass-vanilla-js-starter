@@ -1,0 +1,10 @@
+{
+  "name": "parcel-sass-vanilla-js-starter",
+  "private": true,
+  "version": "0.0.0",
+  "description": "parcel starter for html | sass | vanilla js project",
+  "source": "./src/index.html",
+  "author": "Denis Dezest <denis.dezest@gmail.com>",
+  "repository": "git@github.com:ddZ6ii/parcel-sass-vanilla-js-starter.git",
+  "license": "MIT"
+}
