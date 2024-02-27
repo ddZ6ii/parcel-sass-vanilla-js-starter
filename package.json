@@ -6,5 +6,9 @@
   "source": "./src/index.html",
   "author": "Denis Dezest <denis.dezest@gmail.com>",
   "repository": "git@github.com:ddZ6ii/parcel-sass-vanilla-js-starter.git",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.11.0",
+    "sass": "^1.71.1"
+  }
 }
